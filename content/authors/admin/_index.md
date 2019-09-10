@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student & Residence Fellow
+role: Grad Student & Res Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -65,6 +65,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+M.S. Lafrenie is a graduate student of Public History and Digital Humanities at Carleton University. Their research interests include numismatics, archives and cultural heritage policy. They currently work as a Research Assistant for the Carleton Centre for Public History.
