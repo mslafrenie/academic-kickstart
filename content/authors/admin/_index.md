@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Master's Candidate in Public History and Digital Humanities
+role: Graduate Student & Residence Fellow
 
 # Organizations/Affiliations
 organizations:
