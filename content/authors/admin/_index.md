@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: M.S. Lafrenie
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,27 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master's Candidate in Public History and Digital Humanities
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Carleton University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include imagined communities, collective identities and numismatics.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Numismatics
+- Archives
+- Cultural Heritage Policy
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BAH in History and Gender Studies
+    institution: Queen's University
+    year: 2018
+ 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
