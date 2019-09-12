@@ -24,6 +24,7 @@ interests:
 - Numismatics
 - Archives
 - Cultural Heritage Policy
+- Peer Education
 
 education:
   courses:
