@@ -9,5 +9,4 @@ header:
   image: ""
 ---
 
-
-blsh fgdfg 
+I'm looking forward to building this site and playing around with this software to create other websites. 
