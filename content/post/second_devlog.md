@@ -1,3 +1,14 @@
+---
+title: Second Devlog
+summary: Time to get messy!
+date: "2019-10-08"
+
+# optional header image (relative to 'static/img/' folder).
+header:
+  caption: ""
+  image: ""
+---
+
 Project: Accessibility on campus
 
 Approach: Projecting the names of buildings on-campus onto their signs with projecting mapping in ASL or perhaps braille (?). I've also been thinking about whether it would be possible to print out stickers and actually affix these building names over the signs of all the buildings on campus. 
