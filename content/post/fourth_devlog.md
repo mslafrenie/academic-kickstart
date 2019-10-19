@@ -1,3 +1,14 @@
+---
+title: Fourth Devlog
+summary: Making research fun!
+date: "2019-10-18"
+
+# optional header image (relative to 'static/img/' folder).
+header:
+  caption: ""
+  image: ""
+---
+
 I went to the Bank of Canada Museum today and it was so cool. They game-ified the whole experience and let you create an avatar that you take with you throughout your whole experience. I learned a lot about currency and how the economy works. I spent about an hour or so at the museum and went to almost every interactive screen and game there. 
 
 One of my favourite parts was the inflation/deflation game where you fly your spaceship through a series of checkpoints to maintain the current valuation and inflation rate of 2%. You have a joystick, 6 boost opportunities and you're being timed. The best I placed was 7th.
