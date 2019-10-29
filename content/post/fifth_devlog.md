@@ -24,3 +24,5 @@ Next steps:
 5. **Complete one full coin on storymap for next class** or **Complete 2 full analyses of coins**
 
 6. **Build github repository**
+
+7. **Create Medium account**
