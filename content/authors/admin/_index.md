@@ -25,6 +25,7 @@ interests:
 - Archives
 - Cultural Heritage Policy
 - Peer Education
+- Digital Humanities
 
 education:
   courses:
