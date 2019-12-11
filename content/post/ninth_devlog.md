@@ -16,3 +16,4 @@ I took the right to vote coin and changed the timeline to read: 1916-1960. It wa
 
 Uploading these images and getting my repositories to work was a different story though. I broke my site multiple times and had to ask Marissa for help. At first the images wouldn’t show up—so Marissa directed me to her devlogs and repo to find the code. This worked on the original site, but once I broke it, I had to build a brand-new site from GitHub Pages using markdown. I had to figure out a new code for getting links and images to show up. Once I got the all the folders, files and photos working the site was running smoothly. It only took 2 days of struggling with netlify, github and my own motivation to come up with a solution for my project that suited me and my interests. And now I’m done.
 
+Here it is, here's my project: [the numis-o-matic machine](https://mslafrenie.github.io/numis-o-matic-machine/)
