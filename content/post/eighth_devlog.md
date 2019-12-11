@@ -1,7 +1,7 @@
 ---
 title: Eighth Devlog
-summary: Choosing coins
-date: "2019-12-04"
+summary: Narrowing my scope and choosing my stories
+date: "2019-12-11"
 
 # optional header image (relative to 'static/img/' folder).
 header:
