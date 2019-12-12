@@ -12,11 +12,13 @@ header:
 **The Shiner’s Game:**
 
 Wow, I am impressed. I truly enjoyed playing this game and got really into it. Nick really put me in the “flow state” I was invested, and I did my best to go through all the options and answer all the riddles honestly.
-This game had me google searching and looking at Google Streetview just to find answers and confirm my knowledge. I became invested in the game and luckily, I knew enough about Ottawa to be able to answer all the riddles. It reminded me so much of the online game SPENT. I did successfully make it through the game with all my family members alive.
+
+This game had me google searching and looking at Google Streetview just to find answers and confirm my knowledge. I became invested in the game and luckily, I knew enough about Ottawa to be able to answer all the riddles. It reminded me so much of the online game [SPENT.](http://playspent.org/html/) I did successfully make it through the game with all my family members alive.
 
 ![alternativetxt](/img/Screenshot-870.png)    ![alternativetxt](/img/Screenshot-871.png)
 
 Nick has really worked hard on this game and smoothed out all the bugs he was struggling with earlier this term. While going through the game I was amazed by the sheer amount of options I had and how the game pushed me to do certain things but wasn’t entirely impossible to survive. It taught me a lot about the hardships of a Shiner lifestyle. 
+
 This game makes me want to make my own game! And given that I have access to Nick’s devlogs and paradata I just might do that in my spare time.
 
 ****
